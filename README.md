@@ -1,2 +1,3 @@
 # basic-manual-build-of-project
-React+TS+Babel+Webpack
+
+React + TS + Babel + Webpack
